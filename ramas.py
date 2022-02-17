@@ -18,4 +18,4 @@ if SensorDeAgua ==("normal"):
 if SensorDeAgua==("mayor"):
     print("error, el agua consumible de los pollos es de 300 litros")
 if SensorDeAgua <=("bajo"):
-    print("alerta, el agua de los pollos es baja, es de 100 litros")
+    print("alerta, el agua de los pollos es muy poca, es de 100 litros")
